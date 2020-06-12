@@ -1,7 +1,7 @@
 # Mod_4_Bitcoin_Project
 
 ## Project Presentation:
-https://www.canva.com/design/DAD7fgzkfiY/XNuka_HszjbjI1prozvYAA/edit?category=tACFasDnyEQ
+https://www.canva.com/design/DAD-zcwCFRg/WJdZH_m56TtYoxZb7-CMKA/view?utm_content=DAD-zcwCFRg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ### Project Details:
 Data Source: Yahoo Finance
