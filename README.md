@@ -16,7 +16,6 @@
 - MACD(Moving Average Convergence Divergence), RSI(Relative Strength Index), STD(Standard Deviation)
 - Finding the local minima and maxima would be the best option in creating labels. 
 - Feature engineer VWAP (Volume Weighted Average Price) uses both price and volume to measure average price traded that day.
-- After that we can train our model on those labels and see how well if predicts on the dataset as a whole. 
 
 #### High Closing Price Prediction + Graph + Score
 ![alt text](https://github.com/anhbiphan/Project_Bitcoin/blob/Anh/images/high_preds.png?raw=true)
