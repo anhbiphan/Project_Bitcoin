@@ -13,7 +13,7 @@
 - What is the best window time frame to use?
 
 #### Solutions:
-- MACD(Moving Average Convergence Divergence), RSI(Relative Strength Index), STD(Standard Deviation)
+- MACD(Moving Average Convergence Divergence), RSI(Relative Strength Index)
 - Finding the local minima and maxima would be the best option in creating labels. 
 - Feature engineer VWAP (Volume Weighted Average Price) uses both price and volume to measure average price traded that day.
 
